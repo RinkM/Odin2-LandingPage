@@ -1,0 +1,13 @@
+div{border: 1px solid brown;
+}
+
+.container{
+    display:flex;
+    justify-content: space-around;
+}
+
+.thumbnail{
+    width:100px;
+
+
+}
