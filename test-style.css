@@ -6,8 +6,20 @@ div{border: 1px solid brown;
     justify-content: space-around;
 }
 
-.thumbnail{
-    width:100px;
-
-
+.thumbnail{margin:5px;
 }
+
+.thumbnail--img{
+    margin: 2px 10px;
+    width:150px;
+    border:3px solid blue;
+    border-radius: 8px;
+}
+
+.thumbnail--text{font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin:2px 10px;
+    width:154px;
+    text-align: center;
+}
+
+
