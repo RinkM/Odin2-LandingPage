@@ -1,9 +1,46 @@
-body{font-family: Roboto, sans-serif;}
+body{font-family: Roboto, sans-serif;
+padding:0px;
+margin:0px}
 
 div{
-    /* border: 1px solid rgb(102, 144, 66); */
-    /* margin:5px;     */
+    border: 1px solid rgb(102, 144, 66);
+    /* margin:5px;  */
+       
 }
+.header--logo{
+    margin:0px
+}
+
+header{
+    display:flex;
+    border:3px solid green;
+    justify-content: flex-start;
+    background-color: white;
+    color:#d7454f;
+
+
+}
+
+.img:hover{
+}
+
+.interior {width:85%
+}
+
+.interior--img{width:40%;
+}
+
+nav{height:60px;
+    margin-left: 100px;
+    display: flex;
+    flex-flow: column wrap;
+    font-family: Constantia;
+    font-size: 20px;
+    text-align: center;
+    padding:2px;
+
+}
+
 
 h2{text-align: center;
     color: #d7454f;
@@ -93,7 +130,7 @@ button{background-color: whitesmoke;
 
 .footer {
     margin-top: 25px;
-    background-color: #a40115;
+    background-color: #d7454f;
     /* color: white; */
     display: flex;
     align-items: center;
@@ -104,7 +141,7 @@ button{background-color: whitesmoke;
     flex: 1;
     text-align: center;
     font-size: 12px;
-    color: black;
+    color: white;
     
 
 }
