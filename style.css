@@ -3,7 +3,7 @@ padding:0px;
 margin:0px}
 
 div{
-    /* border: 1px solid rgb(102, 144, 66); */
+    border: 0px solid rgb(102, 144, 66);
     /* margin:5px;  */
        
 }
@@ -24,18 +24,24 @@ header{
 
 }
 
+a{
+    text-decoration: none;
+    color:#d7454f
 
+}
 
 nav{height:60px;
     
     display: flex;
     flex-flow: column wrap;
-    font-family: Constantia;
+    font-family: Roboto, sans-serif;
     font-size: 23px;
     text-align: center;
     margin-left:5%;
 
+
 }
+
 
 .space{height:60px}
 
@@ -79,7 +85,7 @@ border-radius: 8px;
 }
 .thumbnail--img{
     
-    width:100%;
+    width:98.5%;
     object-fit: contain;
     border:3px solid #d7454f;
     border-radius: 8px;
