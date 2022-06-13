@@ -2,8 +2,6 @@
 First Assignment with **The Odin Project**
 Task : Recreate a landing page for an entity.  
 
-Example is below : 
-![Project Requirements](odin-project.png)
 I tried to extend this assignment by creating a fake coffee shop (*The Slow Break*) and trying to build a website for them.
 
 ## Learning Goals : 
@@ -13,3 +11,5 @@ I tried to extend this assignment by creating a fake coffee shop (*The Slow Brea
 - build class and id's
 
 
+Supposed to recreate or add to this template : 
+![Project Requirements](odin-project.png)
