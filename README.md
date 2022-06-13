@@ -12,4 +12,4 @@ I tried to extend this assignment by creating a fake coffee shop (*The Slow Brea
 
 
 Supposed to recreate or add to this template : 
-![Project Requirements](odin-project.png)
+![Project Requirements](images/odin-project.png)
