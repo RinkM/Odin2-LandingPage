@@ -1,5 +1,5 @@
 # Odin-LandingPage
-First Assignment with **The Odin Project**
+Second Assignment with **The Odin Project**
 Task : Recreate a landing page for an entity.  
 
 I tried to extend this assignment by creating a fake coffee shop (*The Slow Break*) and trying to build a website for them.
