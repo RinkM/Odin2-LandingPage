@@ -3,7 +3,7 @@ First Assignment with **The Odin Project**
 Task : Recreate a landing page for an entity.  
 
 Example is below : 
-![Project Requirements](odin-project.png=100x20)
+![Project Requirements](odin-project.png =100x20)
 
 I tried to extend this assignment by creating a fake coffee shop (*The Slow Break*) and trying to build a website for them.
 
